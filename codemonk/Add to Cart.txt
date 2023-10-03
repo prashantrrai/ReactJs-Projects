@@ -1,0 +1,13 @@
+Task :
+
+Thank you for your interest in our internship opening. As a next step,
+ we are expecting you to complete a short assignment. Complete as much 
+as possible features with the provided time. Not required to complete all 
+requirements in the provided time. But core features like cart items
+ (listing, increment/decrement, removal), Order summary calculation, delivery 
+calculation must be present. We are eager to see how you implement it.
+
+Assignment Deadline: 2nd December
+
+Also, please have your code pushed to a github repo and host your project 
+online using services like netlify. Send us the link to your hosted project.
